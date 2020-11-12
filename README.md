@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm an overly enthusiastic Software Engineer predominantly working with anything JavaScript/TypeScript! 
+
+Long-time experience developing web applications using both React & Angular (HTML, JS, SCSS), back-end applications and microservices using tools like NodeJS, NestJS, TypeORM, LoopBack and Socket.IO. Utilising DB solutions like MongoDB, Redis, MySQL, SQLite and more...
+
+Strong affinity for things DevOps- Happily spinning up clusters and containerising my projects to have them autoscaled in Kubernetes- How about you?
+
+Love automating my workflows using CI/CD to build, test and publish my work to deliver you the best experience!
+
 <!--
 **Octopixell/octopixell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
