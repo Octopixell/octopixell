@@ -10,7 +10,7 @@ Love automating my workflows using CI/CD to build, test and publish my work to d
 
 ### Find me here! 👇
 
-<a href="www.linkedin.com/in/marco-strijker-com">
+<a href="https://www.linkedin.com/in/marco-strijker-com">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Octopixell">
