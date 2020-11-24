@@ -8,6 +8,8 @@ Strong affinity for things DevOps- Happily spinning up clusters and containerisi
 
 Love automating my workflows using CI/CD to build, test and publish my work to deliver you the best experience!
 
+<!--
+
 ### Find me here! 👇
 
 <a href="https://www.linkedin.com/in/marco-strijker-com">
@@ -16,6 +18,8 @@ Love automating my workflows using CI/CD to build, test and publish my work to d
 <a href="https://github.com/Octopixell">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+-->
 
 <!--
 **Octopixell/octopixell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
