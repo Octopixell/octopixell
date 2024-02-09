@@ -4,7 +4,7 @@ I'm an overly enthusiastic Software Engineer predominantly working with anything
 
 - 🔭 I’m currently working on my React Skills
 - 🌱 I’m currently learning about TDD and Microservices
-- 😎 I'm working for a cool company called [cord](https://cord.co/) helping you do your best work
+- 😎 I'm working as a Software Engineer for the Royal Dutch Navy (Commando Materieel & IT)
 - 💬 Ask me about anything honestly..
 - 📫 How to reach me: [<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marco-strijker-com/)
 - ⚡ Fun fact: If I could be a fictional character, I would be [**John Nolan**](https://the-rookie.fandom.com/wiki/John_Nolan) from the TV show [**The Rookie**](https://the-rookie.fandom.com/wiki/The_Rookie_Wiki)
