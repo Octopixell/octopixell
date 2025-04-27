@@ -31,4 +31,4 @@ I'm an overly enthusiastic Software Engineer predominantly working with anything
 
 ## Swanky Stats!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octopixell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octopixell&layout=compact&&hide=vue)](https://github.com/anuraghazra/github-readme-stats)
